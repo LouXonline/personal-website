@@ -22,7 +22,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "img/galaxy.jpg"
+defaultBackgroundImage = "img/space_background.png"
 backgroundImageWidth = ""
 
 [header]
@@ -36,11 +36,11 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "backgrounf"
-showRecent = false
+layout = "background"
+showRecent = true
 showRecentItems = 6
-showMoreLink = false
-showMoreLinkDest = "/posts/"
+showMoreLink = true
+showMoreLinkDest = "/resume/"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
