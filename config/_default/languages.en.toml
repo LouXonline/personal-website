@@ -1,0 +1,21 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Home Page"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+["params.author"]
+name = "Lourenço Gouveia Faria"
+email = "lourencogfaria@gmail.com"
+headline = "Aerospace Engineer"
+bio = "Hello. Welcome to my website."
+links = [
+    { linkedin = "https://linkedin.com/in/lourenco-gouveia-faria"},
+    { instagram = "https://instagram.com/lourenco_gouveia_faria"}
+]
