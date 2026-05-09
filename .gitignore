@@ -1,3 +1,4 @@
 public/
 .hugo_build.lock
-hugo.toml
+/hugo.toml
+archetypes/
